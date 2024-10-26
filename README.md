@@ -7,7 +7,6 @@ Sou desenvolvedor de software senior, apaixonado por machine learn, analise de d
 - 🔭 Atualmente, estou trabalhando com desenvolvimento backend usando Node.js, AWS Lambda e TypeScript para aplicações serverless.
 - 🌱 Estou aprendendo padrões avançados em arquitetura serverless e aprimorando minhas habilidades em serviços AWS.
 - 👯 Estou buscando colaborar em projetos de backend escaláveis, especialmente aqueles envolvendo computação em nuvem e microsserviços.
-- 🤔 Preciso de ajuda para explorar as melhores práticas de segurança em APIs para ambientes na nuvem.
 - 💬 Pergunte-me sobre otimização de banco de dados, desenvolvimento full-stack com frameworks modernos ou sobre ensino de habilidades técnicas.
 - 📫 Como entrar em contato comigo: [LinkedIn](https://www.linkedin.com/in/rafael-fideles-costa)
 - ⚡ Curiosidade: Gosto de combinar minhas habilidades em programação com ensino, e já ministrei cursos de desenvolvimento de software e melhores práticas em tecnologia no Senac!
