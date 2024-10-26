@@ -23,6 +23,8 @@ Sou desenvolvedor de software senior, apaixonado por machine learn, analise de d
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
+![Socket](https://img.shields.io/badge/-Socket-333333?style=flat&logo=socket.io)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 ![MongoDb](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
