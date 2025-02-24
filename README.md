@@ -1,6 +1,6 @@
 # Olá, eu sou Rafael Fideles 👋
 
-Sou desenvolvedor de software senior, apaixonado por machine learn, analise de dados, desenvolvimento web e tecnologia.
+Sou arquiteto de software senior, apaixonado por machine learn, analise de dados, desenvolvimento web e tecnologia.
 
 ## Sobre mim
 
